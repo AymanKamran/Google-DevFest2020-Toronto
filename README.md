@@ -1,4 +1,4 @@
-# Google-DevFest2020-Toronto 
+# Google-DevFest2020-Toronto (ReadME file Not completed - this is a template!)
 Submission to Google DevFest2020 Toronto - As competitor in Google Developer Groups Worldwide Event.
 
 *Instructions: Click on the raw button in the upper right hand corner of this box.  Copy and paste the template into the README.md document on your github.  Fill in the titles, information and links where prompted! Feel free to stray a bit to suit your project but try to stick to the format as closely as possible for consistency across DSWG projects.*
